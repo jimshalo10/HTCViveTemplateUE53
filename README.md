@@ -7,7 +7,7 @@ Unreal Engine 4 version was orginal by [Carlos Montero GitHub user cman2k](https
 
 This Unreal Project was upgraded to Unreal 5.3. The unique value of this project is its small size and easy starting point for those coming to VR
 
-This is just hosted here. There is no support
+This is just hosted here. The users do not have any hardware. Therefore is no support
 NO WARRANTY This learning tutorial and not for production use
 
 GitHub Download: 
