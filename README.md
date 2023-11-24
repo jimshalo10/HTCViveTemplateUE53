@@ -3,7 +3,7 @@ Project files for an HTC Vive Template for Unreal Engine 5 from the original Unr
 HTC VIVE Template 
 
 It seems the community is in need of a quality HTC Vive Template till Epic Games gets their official ones going.
-Unreal Engine 4 version was orginal by [Carlos Montero GitHub user cman2k](https://github.com/cman2k/HTCViveTemplate-UE4)
+Unreal Engine 4 version was original by [Carlos Montero GitHub user cman2k](https://github.com/cman2k/HTCViveTemplate-UE4)
 
 This Unreal Project was upgraded to Unreal 5.3. The unique value of this project is its small size and easy starting point for those coming to VR
 
