@@ -14,6 +14,11 @@ Steam support page is [here](https://help.steampowered.com/en/)
 **NO WARRANTY** This learning tutorial and not for production use
 
 GitHub Download: 
+Installation Click the green "Code" button above select "Download Zip"
+
+Right Click on zip file Propeties tick the "Unblock" the decompress into folder. 
+
+Open Unreal Engine 5.3 and browse for the folder select the project. 
 
 Version 1.0
 
