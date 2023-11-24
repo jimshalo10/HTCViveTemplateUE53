@@ -49,5 +49,5 @@ VR-PhysicsWorld:
 -Physics Cube Actors to interact with (pickup, throw, etc.)
 
 
-The download link is at the top of this post. It is on a public GitHub repo and community involvement would be awesome to see. I plan on making a shooting range and a few other levels so if anyone wants to beat me to those and add them to this project (regardless of it being Vive or Oculus based) then go right ahead :)
+See the full post on [Steam Unreal HTC VIVE Template](https://steamcommunity.com/app/358720/discussions/0/357284767248753791/)
 
